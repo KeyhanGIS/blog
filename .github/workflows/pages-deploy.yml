@@ -43,6 +43,11 @@ jobs:
           ruby-version: 3.1  # تغییر نسخه Ruby
           bundler-cache: false  # کش را غیرفعال کردیم
 
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install  # نصب تمام وابستگی‌ها
+
       - name: Build site
         run: bundle exec jekyll build -d "_site"
         env:
