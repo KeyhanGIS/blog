@@ -18,12 +18,8 @@ description: Personal blog by Keyhan Khosravifard about Web GIS development, too
 url: "https://keyhangis.github.io"
 baseurl: "/blog"
 
-github:
-  username: keyhangis
-
-# twitter:
-#   username:
-
+# github:
+#   username: keyhangis
 social:
   name: Keyhan Khosravifard
   email: keyhan.khosravifard@gmail.com
