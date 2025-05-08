@@ -59,10 +59,13 @@ pageviews:
 # Theme appearance
 theme_mode: light
 
-cdn: "https://chirpy-img.netlify.app"
+cdn: ""
 
 # Optional avatar (replace with your image path if needed)
-avatar: "assets/img/my-avatar.jpg"
+avatar: "/assets/img/my-avatar.jpg"
+assets:
+  self_host:
+    enabled: true
 
 # Optional preview image for social sharing
 social_preview_image:
