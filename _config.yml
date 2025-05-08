@@ -62,7 +62,7 @@ theme_mode: light
 cdn: "https://chirpy-img.netlify.app"
 
 # Optional avatar (replace with your image path if needed)
-avatar: "/assets/img/my-avatar.jpg"
+avatar: "assets/img/my-avatar.jpg"
 
 # Optional preview image for social sharing
 social_preview_image:
