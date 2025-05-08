@@ -10,8 +10,8 @@ My portfolio includes designing context-aware recommender systems for tourism, r
 
 Currently based in Iran, I’m open to **remote opportunities**, freelance collaborations, and international engagements where I can contribute to meaningful map-based solutions.
 
-🗺️ [My Portfolio & Blog](https://keyhangis.github.io)  
-💼 [LinkedIn](https://www.linkedin.com/in/KeyhanGIS)
+🗺️ [My Portfolio & Blog](https://keyhangis.github.io) 
+💼 [LinkedIn](https://www.linkedin.com/in/KeyhanGIS) 
 📬 [Contact Me](mailto:keyhan.khosravifard@gmail.com)  
 🔗 [ResearchGate Profile](https://www.researchgate.net/profile/Keyhan-Khosravifard)  
 
