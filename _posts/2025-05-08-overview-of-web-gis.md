@@ -3,7 +3,7 @@ layout: post
 title: "Overview of Web GIS"
 date: 2025-05-08 10:00:00 +0000
 categories: web-gis
-tags: [Web GIS, GIS, Geospatial]
+tags: [Geospatial, GIS, Web GIS]
 ---
 
 Web GIS is an advancement of traditional geographic information systems (GIS) that allows users to access, analyze, and share geographical information over the internet. It utilizes web protocols and interfacing with web browsers to provide a platform for spatio-temporal data analysis, visualization, and dissemination.
