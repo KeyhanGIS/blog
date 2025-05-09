@@ -42,8 +42,6 @@ analytics:
     id: "mybloggg"
   google:
     id:
-  goatcounter:
-    id:
   umami:
     id:
     domain:
@@ -76,27 +74,17 @@ social_preview_image:
 toc: true
 
 comments:
-  provider:
-  disqus:
-    shortname:
-  utterances:
-    repo:
-    issue_term:
+  provider: giscus
   giscus:
-    repo:
-    repo_id:
-    category:
-    category_id:
-    mapping:
-    strict:
-    input_position:
-    lang:
-    reactions_enabled:
-
-assets:
-  self_host:
-    enabled:
-    env:
+    repo: keyhangis/blog
+    repo_id: "R_kgDOOmSBkg"
+    category: "General"
+    category_id: "DIC_kwDOOmSBks4Cp94e"
+    mapping: pathname
+    strict: false
+    input_position: bottom
+    lang: en
+    reactions_enabled: true
 
 pwa:
   enabled: true
