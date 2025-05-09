@@ -38,6 +38,8 @@ webmaster_verifications:
   facebook:
 
 analytics:
+  goatcounter:
+    id: "mybloggg"
   google:
     id:
   goatcounter:
