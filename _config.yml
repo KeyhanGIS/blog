@@ -59,7 +59,7 @@ pageviews:
 # Theme appearance
 theme_mode: light
 
-cdn: ""
+cdn: "https://cdn.jsdelivr.net/npm/jekyll-theme-chirpy@latest"
 
 # Optional avatar (replace with your image path if needed)
 avatar: "/assets/img/my-avatar.jpg"
