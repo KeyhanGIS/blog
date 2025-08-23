@@ -7,7 +7,7 @@ tags: [Geospatial, GIS, Web GIS]
 ---
 
 <figure>
-  <img src="/blog/assets/img/webgis_1.webp" alt="Web GIS Overview" style="width: 100%; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/img/webgis_1.webp"> alt="Web GIS Overview" style="width: 100%; border-radius: 8px;">
 </figure>
 
 Web GIS is an advancement of traditional geographic information systems (GIS) that allows users to access, analyze, and share geographical information over the internet. It utilizes web protocols and interfacing with web browsers to provide a platform for spatio-temporal data analysis, visualization, and dissemination.

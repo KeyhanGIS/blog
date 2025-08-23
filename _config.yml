@@ -62,7 +62,7 @@ theme_mode: light
 cdn: ""
 
 # Optional avatar (replace with your image path if needed)
-avatar: "/blog/assets/img/my-avatar.jpg"
+avatar: "{{ site.baseurl }}/assets/img/my-avatar.jpg"
 assets:
   self_host:
     enabled: true
