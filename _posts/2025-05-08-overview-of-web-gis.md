@@ -24,7 +24,7 @@ Web GIS is a type of distributed information system that comprises at least a se
 - Data quality 📊
 - System performance ⚙️
 - Accessibility in poorly connected locations 📶
-- Maintenance costs 💰
+- Maintenance costs  💰
 
 ### Applications of Web GIS 📌
 Web GIS has diverse applications, including:
