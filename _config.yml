@@ -161,3 +161,23 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# --------------------------------
+# Added for SEO, feeds, sitemap
+# --------------------------------
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+sitemap:
+  exclude:
+    - "/assets/"
+  include_posts: true
+  changefreq: daily
+  priority: 1.0
