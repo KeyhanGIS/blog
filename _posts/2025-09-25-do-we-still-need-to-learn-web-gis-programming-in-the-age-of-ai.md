@@ -4,6 +4,9 @@ title: "Do We Still Need to Learn Web GIS Programming in the Age of AI?"
 date: 2025-09-25 10:00:00 +0000
 categories: web-gis
 tags: [Geospatial, GIS, Web GIS, AI, No-Code, Programming]
+meta_title: "Do We Still Need to Learn Web GIS Programming in the Age of AI?"
+meta_description: "With AI and No-Code platforms like Mapbox and ArcGIS Online, do we still need to learn Web GIS programming? Based on real project experience, here’s why coding still matters for complex, scalable, and future-proof GIS solutions."
+meta_keywords: "Web GIS, GIS programming, No-Code GIS, AI in GIS, Mapbox, ArcGIS Online, spatial analysis, geospatial development"
 ---
 
 <figure>
@@ -67,4 +70,3 @@ If your goal is a **demo, a simple visualization, or an internal tool**, start w
 AI and No-Code platforms are not the enemy of programming — they’re powerful assistants. But to truly stand out as a Web GIS specialist, **coding is still your long-term investment**.  
 
 What’s your perspective? Do you believe AI and No-Code will eventually cover everything, or will coding always remain at the core of Web GIS?  
-
