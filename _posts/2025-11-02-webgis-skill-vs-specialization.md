@@ -4,7 +4,6 @@ title: "The Crucial Difference Between WebGIS Skill and WebGIS Specialization"
 date: 2025-11-02 10:00:00 +0000
 categories: web-gis
 tags: [GIS, WebGIS, FullStack, Leaflet, PostGIS]
-author: "Keyhan"
 meta_title: "WebGIS Skill vs Specialization – Finding Your Path in Spatial Development"
 meta_description: "Understand the difference between learning WebGIS as a practical skill and pursuing it as a full-stack development specialization."
 meta_keywords: "WebGIS, GIS, PostGIS, Leaflet, OpenLayers, Full Stack Development, Spatial Analysis"
