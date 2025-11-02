@@ -8,7 +8,7 @@ meta_title: "WebGIS Skill vs Specialization – Finding Your Path in Spatial Dev
 meta_description: "Understand the difference between learning WebGIS as a practical skill and pursuing it as a full-stack development specialization."
 meta_keywords: "WebGIS, GIS, PostGIS, Leaflet, OpenLayers, Full Stack Development, Spatial Analysis"
 image:
-  path: /assets/img/webgis-skill-vs-specialization.webp
+  path: /assets/img/webgis_skill_vs_specialization_2.webp
   alt: "WebGIS Skill vs Specialization"
 ---
 
