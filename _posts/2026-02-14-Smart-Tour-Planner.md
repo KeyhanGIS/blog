@@ -2,7 +2,7 @@
 layout: post
 title: "Smart Tour Planner: A Context-Aware Web GIS for Personalized Travel"
 date: 2026-02-14 22:00:00 +0000
-categories: [Web-GIS]
+categories: web-gis
 tags: [Web GIS, GIS, Smart Tourism, Python, Django, Folium, Portfolio]
 meta_title: "Smart Tour Planner – Context-Aware Web GIS for Travel Planning"
 meta_description: "A real-world Web GIS project that generates personalized travel plans using context-aware logic based on user interests, time, and weather."
