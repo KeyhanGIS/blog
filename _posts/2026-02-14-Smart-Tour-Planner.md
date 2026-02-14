@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Smart Tour Planner: A Context-Aware Web GIS for Personalized Travel"
-date: 2026-02-14 22:00:00 +0000
+date: 2025-11-03 10:00:00 +0000
 categories: web-gis
-tags: [Web GIS, GIS, Smart Tourism, Python, Django, Folium, Portfolio]
+tags: [WebGIS, GIS, SmartTourism, Python, Django, Folium, Portfolio]
 meta_title: "Smart Tour Planner – Context-Aware Web GIS for Travel Planning"
 meta_description: "A real-world Web GIS project that generates personalized travel plans using context-aware logic based on user interests, time, and weather."
 meta_keywords: "Web GIS, Smart Tourism, Context Aware GIS, Python GIS, Django GIS"
-toc: true
-comments: true
 ---
 
 ## 🧭 Introduction
@@ -28,7 +26,7 @@ This project started with a simple question:
 
 ## 💡 The Core Idea Behind the Project
 
-The goal was not to build yet another interactive map.
+The goal was not to build yet another map viewer.
 
 Instead, I wanted to design a Web GIS system that:
 - understands user preferences,
@@ -50,20 +48,16 @@ instead of
 Users define their interests using **ten different categories**.  
 Each Point of Interest (POI) is scored and ranked based on how well it matches those preferences.
 
-This approach avoids:
+This avoids:
 - generic recommendations,
 - long and irrelevant POI lists,
-- and one-size-fits-all travel suggestions.
-
-Only locations that truly fit the user profile are highlighted.
+- one-size-fits-all travel suggestions.
 
 ---
 
 ### ☀️ Context-Aware Filtering (Time & Weather)
 
-Context awareness plays a central role in this project.
-
-The system dynamically adjusts its recommendations based on:
+The system dynamically adapts its recommendations based on:
 - time of day,
 - weather conditions.
 
@@ -80,8 +74,8 @@ Once relevant POIs are selected, the system calculates:
 - the shortest,
 - and most efficient route between them.
 
-The idea is simple:
-**less time spent moving, more time spent exploring.**
+The idea is simple:  
+**less time moving, more time exploring.**
 
 ---
 
@@ -98,8 +92,6 @@ These services are clustered to keep the map readable and easy to use.
 
 ## ⚙️ Tech Stack & Architecture
 
-This project was implemented as a complete Web GIS pipeline.
-
 ### Backend
 - Python / Django  
 - Context-Based Reasoning (CBR) logic  
@@ -113,38 +105,28 @@ This project was implemented as a complete Web GIS pipeline.
 - PostgreSQL  
 - Storage of spatial and non-spatial data  
 
-The overall architecture was kept intentionally simple, readable, and easy to extend.
-
 ---
 
 ## 🧩 Challenges and Design Decisions
 
-Some of the most important challenges were not technical bugs, but design choices:
-
-- defining meaningful rules for context-based reasoning,
+Key challenges during development included:
+- defining meaningful context-based rules,
 - balancing recommendation quality versus quantity,
-- combining spatial data with user behavior and environmental context,
-- keeping the interface simple while backend logic remained complex.
-
-These decisions shaped the final system more than any single technology choice.
+- combining spatial data with user behavior and environment,
+- keeping the UI simple while backend logic remained complex.
 
 ---
 
 ## 🚀 Possible Future Improvements
 
-This project is a prototype rather than a finished product.
-
-Potential next steps include:
-- integrating real-time data sources,
-- improving POI ranking strategies,
-- connecting to external tourism APIs,
-- optimizing the system for mobile-first usage.
+- Real-time data integration  
+- Smarter POI ranking strategies  
+- External tourism APIs  
+- Mobile-first optimization  
 
 ---
 
-## 🎥 Project Demo
-
-The following video demonstrates the full workflow of the Smart Tour Planner, including personalized POI selection, context-aware behavior, and routing logic.
+## Video
 
 {% include embed/youtube.html id='Emny4izfxYg' %}
 
@@ -152,8 +134,6 @@ The following video demonstrates the full workflow of the Smart Tour Planner, in
 
 ## 📌 Final Thoughts
 
-This project shows how Web GIS can move beyond simple visualization and evolve into a **decision-support system**.
+This project demonstrates how Web GIS can move beyond visualization and become a **decision-support system**.
 
-Maps are powerful on their own, but when combined with context and reasoning, they become genuinely useful.
-
-If you are interested in building or extending context-aware Web GIS solutions, feel free to get in touch.
+Maps alone are powerful — but when combined with context and reasoning, they become genuinely useful.
